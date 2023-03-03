@@ -1,6 +1,7 @@
 - Belajar PHP
 - Belajar NextJS
 - Belajar OAuth 2.0 menggunakan Passport
-- Belajar framework Javascript:
-  - Reactjs
-  - Vue
+- Belajar Framework Javascript:
+  - ReactJS
+  - Angular
+- Belajar Data Struktur
